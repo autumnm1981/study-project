@@ -1,4 +1,4 @@
 # The Unix Workbench Project
-The make starts running at 2018-07-23 14:20:47
+The make starts running at 2018-07-23 15:13:19
 
-The number of lines of code contained in guessinggame.sh is 8
+The number of lines of code contained in guessinggame.sh is 24
